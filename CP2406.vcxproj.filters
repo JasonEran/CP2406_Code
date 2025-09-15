@@ -18,16 +18,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P1_Q4.cpp">
+    <ClCompile Include="Week1_Prac\P1_Q1.cpp">
       <Filter>Week1_Practical</Filter>
     </ClCompile>
-    <ClCompile Include="P1_Q1.cpp">
+    <ClCompile Include="Week1_Prac\P1_Q2.cpp">
       <Filter>Week1_Practical</Filter>
     </ClCompile>
-    <ClCompile Include="P1_Q2.cpp">
+    <ClCompile Include="Week1_Prac\P1_Q3.cpp">
       <Filter>Week1_Practical</Filter>
     </ClCompile>
-    <ClCompile Include="P1_Q3.cpp">
+    <ClCompile Include="Week1_Prac\P1_Q4.cpp">
       <Filter>Week1_Practical</Filter>
     </ClCompile>
   </ItemGroup>

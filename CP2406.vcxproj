@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Week1_Prac\P1_Q1.cpp" />
+    <ClCompile Include="Week1_Prac\P1_Q2.cpp" />
+    <ClCompile Include="Week1_Prac\P1_Q3.cpp" />
+    <ClCompile Include="Week1_Prac\P1_Q4.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,12 +132,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="P1_Q1.cpp" />
-    <ClCompile Include="P1_Q2.cpp" />
-    <ClCompile Include="P1_Q3.cpp" />
-    <ClCompile Include="P1_Q4.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
